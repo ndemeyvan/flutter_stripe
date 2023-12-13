@@ -17,5 +17,3 @@ class FetchStripePaymentIntentSuccess extends StripePaymentState {
 
 class FetchStripePaymentIntentError extends StripePaymentState {}
 
-
-class NavigateToSuccessPage extends StripePaymentState {}
