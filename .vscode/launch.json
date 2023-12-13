@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "dart",
+        "request": "launch",
+        "name": "run",
+        "args": [
+          "run",
+          "--target",
+          "lib/main.dart"
+        ],
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
